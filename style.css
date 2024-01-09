@@ -71,3 +71,11 @@ body {
   border-radius: 5px;
   cursor: pointer;
 }
+
+.love {
+  color: white;
+  position: absolute;
+  top: 98%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
